@@ -1,0 +1,6 @@
+@Calcoolator_HostAddress = http://localhost:5056
+
+GET {{Calcoolator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
